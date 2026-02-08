@@ -1,0 +1,175 @@
+body{
+    background-color: black;
+    height: 100vh;
+}
+
+.nav-container{
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.navbar1{
+    margin-left: 50%;
+    color:whitesmoke;
+}
+
+.intro-card{
+    width:100%;
+    margin-top: 15%;
+    padding-left: 10%;
+}
+
+.image-card{
+    padding-top: 30px;
+    padding-right: 400px;
+}
+
+.hero-image{
+
+}
+
+.context{
+    font-family: ;
+}
+
+.title{
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.nav1:hover{
+    background-color:orange;
+    border-radius: 20px;
+    height: 30px;
+    padding-left: 7px;
+    padding-right: 7px;
+
+    
+}
+
+.nav1.active {
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+.title{
+    color: orange;
+}
+
+.button1{
+    background-color: orange;
+    color: white;
+}
+
+.about-card{
+    background-color: rgb(21, 23, 35);
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+    padding: 40px;
+}
+
+.icon1{
+    height: 70px;
+    width: 70px;
+}
+
+.projects-card{
+    background-color: rgb(21, 23, 35);
+    border-radius: 10px;
+    width: 500px;
+    height: 340px;
+    padding: 30px;
+}
+
+.image-1{
+    height: 200px;
+    width: 350px;
+    border-radius: 10px;
+    margin-left: 45px;
+}
+
+input{
+    background-color: rgb(21, 23, 35);
+    border-color: orange;
+    border-style: solid;
+    color: white;
+}
+input:focus{
+    background-color: rgb(21, 23, 35) !important;
+    border-color: orange !important;
+    border-style: solid !important;
+    color: white !important;
+    outline: none;
+    box-shadow: none;
+}
+
+.contact-message{
+     background-color: rgb(21, 23, 35);
+    border-color: orange;
+    border-style: solid;
+    border-width: 2px;
+    color: white;
+}
+.contact-message:focus{
+    background-color: rgb(21, 23, 35) !important;
+    border-color: orange !important;
+    border-style: solid !important;
+    color: white !important;
+    outline: none;
+    box-shadow: none;
+}
+
+.icon-1{
+    height:50px;
+    width:50px;
+}
+
+.contact-form{
+    background-color:  rgb(21, 23, 35);
+    border-radius: 20px;
+}
+
+.contact-name{
+    height: 50px;
+    width: 420px;
+    border-radius: 10px;
+}
+
+.contact-email{
+    height: 50px;
+    width: 420px;
+    border-radius: 10px;
+}
+
+.contact-message{
+    height: 50px;
+    width: 420px;
+    border-radius: 10px;
+}
+
+.submit-button{
+    background-color: orange;
+    color: white;
+    width: 220px;
+}
+.submit-button:focus{
+    background-color: transparent !important;
+    color: orange !important;
+    width: 220px;
+
+}
+
+.contact-info{
+    margin-top: 60px;
+}
+
+.split-line{
+    background-color: orange;
+    color:orange;
+    width: 2px;
+    height: 350px;
+
+}
